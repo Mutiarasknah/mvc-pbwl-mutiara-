@@ -1,0 +1,19 @@
+{
+    "name": "tugas1_mutiara",
+    "description": "Tugas 1 SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mutiara",
+            "email": "mutiarasakinah213@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
